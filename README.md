@@ -8,7 +8,9 @@ The user can specify the location in two ways:
 * by typing the name of the city in the input, which is saved to `localStorage` and then available in the dropdown options,
 * by clicking the GET LOCATED button (only if geolocation is enabled).
 
-![image](https://github.com/mwrz/weather-forecast/assets/18627402/ae9fa281-12ef-4383-bcc5-90c3f2b7e002) ![image](https://github.com/mwrz/weather-forecast/assets/18627402/baeef862-746a-49db-a9eb-79d73ec0a7d8)
+<img src="https://github.com/mwrz/weather-forecast/assets/18627402/ef1bc988-1b4a-4e91-9e32-0795276e3af5" width="200" height="410"/>
+<img src="https://github.com/mwrz/weather-forecast/assets/18627402/439e5eeb-6344-4bc2-bbff-8833b681b0d2" width="200" height="410"/>
+
 
 ## Run the application locally
 The application uses the [Open Weather API](https://openweathermap.org/api) to get weather data, so first you need to add the Open Weather API key to the `.env.local` file. \
